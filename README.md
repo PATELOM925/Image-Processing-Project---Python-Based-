@@ -79,3 +79,11 @@ Roadmap to the Project:
 - Create comprehensive documentation for the project, including setup instructions, API documentation, and explanations of how various functionalities work.
 Conclusion:
 The Image Processing Website is a comprehensive web application that allows users to upload, process, and analyse images. It incorporates both frontend and backend components, image processing with Python, user authentication, and data analytics functionalities. By following the above roadmap and continuously improving the project, the Image Processing Website will be a powerful tool for users to manipulate and analyse their images online.
+
+
+Working On:
+OM M PATEL
+MADHURAM MODI
+HARSH DAVRA
+PARTH BHILWALA
+AMAN PATEL
